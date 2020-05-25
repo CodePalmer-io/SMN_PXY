@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1314898156 source:c:\users\yeepa\onedrive\documents\codeblocks\smn\smn_pxy\main.cpp
+	<iostream>
+
+1588351804 source:c:\users\yeepa\onedrive\documents\codeblocks\smn\smn_pxy\network.cpp
+	"stdafx.h"
+	"Network.h"
+	<stdio.h>
+	<math.h>
+	<algorithm>
+	<string>
+	<iostream>
+	<vector>
+
+1588351791 c:\users\yeepa\onedrive\documents\codeblocks\smn\smn_pxy\stdafx.h
+
+1588351750 c:\users\yeepa\onedrive\documents\codeblocks\smn\smn_pxy\network.h
+	<stdio.h>
+	<string>
+	<vector>
+
+1589673028 source:c:\users\yeepa\onedrive\documents\codeblocks\smn\smn_pxy\smn.cpp
+	"stdafx.h"
+	"Network.h"
+	<math.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<fstream>
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+
+1588351808 source:c:\users\yeepa\onedrive\documents\codeblocks\smn\smn_pxy\stdafx.cpp
+	"stdafx.h"
+
